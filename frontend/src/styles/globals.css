@@ -1,0 +1,87 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Lexend:wght@300;400;500;600;700&family=Poppins:wght@300;400;500;600;700&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap");
+
+.learning_navbar .nav_links {
+  font-size: 16px;
+  font-weight: 600;
+  color: #222;
+  font-family: "Poppins", sans-serif;
+}
+.learning_navbar .nav_links_active {
+  color: #1669c9;
+}
+.nav_links:hover {
+  color: #1669c9;
+  cursor: pointer;
+}
+.modules .container {
+  width: 100%;
+  padding: 0 50px;
+}
+
+.learn_heading {
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 4.5rem;
+  margin-bottom: 24px;
+  font-family: "Poppins", sans-serif;
+}
+
+.prompt_card {
+  @apply flex-1 break-inside-avoid rounded-lg bg-white/20 bg-clip-padding px-4 py-2 pb-4 backdrop-blur-lg backdrop-filter w-full h-fit;
+}
+.feed {
+  @apply mx-auto w-full max-w-xl flex justify-center items-center flex-col gap-2;
+}
+
+.prompt_layout {
+  @apply grid grid-cols-3 gap-x-20;
+}
+/* 
+.outline_btn {
+  @apply rounded-full border border-black bg-transparent py-1.5 px-5 text-black transition-all hover:bg-black hover:text-white text-center text-sm font-inter flex items-center justify-center;
+} */
+/* Flex 1 styling  */
+
+.flex-1 {
+  flex: 1;
+}
+
+.title {
+  width: 65%;
+  margin: 15%;
+}
+.primary-title {
+  font-size: 32px;
+  font-weight: 500;
+  margin-bottom: 4%;
+  color: #202020;
+}
+.secondary-title {
+  font-size: 18px;
+  color: #606060;
+}
+.sally-img2 {
+  position: absolute;
+  margin-top: -40px;
+}
+.sally-img2 img {
+  /* max-width: 720px; */
+  max-width: 50vw;
+}
+.sally-img1 {
+  position: absolute;
+  justify-content: center;
+  margin: 0 auto;
+  margin-top: 55px;
+  left: 150px
+}
+.sally-img1 img {
+  /* max-width: 395px; */
+  max-width: 30vw;
+}

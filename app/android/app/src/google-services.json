@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "397558509657",
+    "project_id": "ayurvedatsec",
+    "storage_bucket": "ayurvedatsec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397558509657:android:e86acec7f31a50b8ec4148",
+        "android_client_info": {
+          "package_name": "com.veda.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjq6j4FRS1cmzNFSfAas8Cpb_5ABXciO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

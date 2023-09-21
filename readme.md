@@ -93,21 +93,21 @@ npm run dev
 
 # WEBSITE PREVIEW
 
-![WhatsApp Image 2023-09-18 at 10 32 55 PM](https://github.com/all-stackers/NFC_AllStackers/assets/72150555/9adcbc9e-5990-4e32-af41-97998b5652ec)
+![WhatsApp Image 2023-09-18 at 10 32 55 PM](https://github.com/all-stackers/AyuCare/assets/72150555/9b735099-322c-4130-a673-4ce7f940c2e6)
 
-![WhatsApp Image 2023-09-18 at 10 32 18 PM](https://github.com/all-stackers/NFC_AllStackers/assets/72150555/28cf4eb2-277f-4e09-82f9-9916240b48b3)
+![WhatsApp Image 2023-09-18 at 10 32 18 PM](https://github.com/all-stackers/AyuCare/assets/72150555/53c213a4-5d5f-467f-b843-4cbf628c0235)
 
-![WhatsApp Image 2023-09-18 at 10 31 28 PM](https://github.com/all-stackers/NFC_AllStackers/assets/72150555/56626a9d-e0eb-4b25-bef9-48403652dbcd)
+![WhatsApp Image 2023-09-18 at 10 31 28 PM](https://github.com/all-stackers/AyuCare/assets/72150555/d50c6c29-37e1-4c71-996a-2a3448fe5d1a)
 
-![WhatsApp Image 2023-09-18 at 10 31 54 PM](https://github.com/all-stackers/NFC_AllStackers/assets/72150555/8d38cc69-9480-4e24-847a-31416a4fda3a)
+![WhatsApp Image 2023-09-18 at 10 31 54 PM](https://github.com/all-stackers/AyuCare/assets/72150555/79797cab-4b61-4ab0-9dcf-6bc9c5762b0f)
 
-![WhatsApp Image 2023-09-18 at 10 30 55 PM](https://github.com/all-stackers/NFC_AllStackers/assets/72150555/93bae616-38e2-4c65-a4e0-dba6d2c4408f)
+![WhatsApp Image 2023-09-18 at 10 30 55 PM](https://github.com/all-stackers/AyuCare/assets/72150555/e7e5c00f-e829-45c7-9e86-3140bc03c0cf)
 
-![WhatsApp Image 2023-09-18 at 10 31 07 PM](https://github.com/all-stackers/NFC_AllStackers/assets/72150555/ba80a495-8236-4e97-be3b-933638120b24)
+![WhatsApp Image 2023-09-18 at 10 31 07 PM](https://github.com/all-stackers/AyuCare/assets/72150555/9cddf82a-9b48-470b-92a6-3fcef2e4cf03)
 
-![WhatsApp Image 2023-09-18 at 10 29 51 PM](https://github.com/all-stackers/NFC_AllStackers/assets/72150555/3fed8908-0a07-4a8d-9304-18d92dcb887e)
+![WhatsApp Image 2023-09-18 at 10 29 51 PM](https://github.com/all-stackers/AyuCare/assets/72150555/17b68639-f118-4d04-a527-062f598fd1b5)
 
-![WhatsApp Image 2023-09-18 at 10 30 26 PM](https://github.com/all-stackers/NFC_AllStackers/assets/72150555/7b60c40c-737b-4046-9cd8-4e68d8e8e2fd)
+![WhatsApp Image 2023-09-18 at 10 30 26 PM](https://github.com/all-stackers/AyuCare/assets/72150555/c982f840-44e6-47de-87e0-52854bb3ffd4)
 
 
 # NeedForCode Backend
